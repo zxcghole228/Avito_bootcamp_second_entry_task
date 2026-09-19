@@ -65,7 +65,7 @@ python -m pip install -r requirements.txt
 ```
 
 После установки зависимостей нужно открыть
-`avito_bot_detection_solution.ipynb` и выполнить **Restart & Run All**. Ноутбук
+`avito-bootcamp-second-entry-task.ipynb` и выполнить **Restart & Run All**. Ноутбук
 повторит валидацию, обучит финальный ансамбль и создаст `submission.csv`.
 
 Решение не использует внешние данные, API, большие языковые модели или ручную
